@@ -32,8 +32,9 @@ Software Engineer @ Daacoworks
 <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
 </p>
-### IDE and Tools I Use
 
+### IDE and Tools I Use
+<p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  
@@ -46,6 +47,7 @@ Software Engineer @ Daacoworks
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/google-cloud.png"/>
+  </p>
 <!-- ### 💻 Workspace Spec -->
 <!-- <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  -->
 
