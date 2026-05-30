@@ -5,9 +5,9 @@ Software Engineer @ Daacoworks
 - Here's my [portfolio](https://arunbabu-k-s.vercel.app/)                                                 
 - I’m currently learning DSA and Integrating AI to my workflow
 - Software Engineer at [<img src="https://static.wixstatic.com/media/f63947_5a31680faf974893b50cfcc5161d2b38~mv2.png/v1/fill/w_490,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/daacoworks-logo.png" height="12">](https://www.daacoworks.com)  now known as 
-[<img src="https://www.tamidas.com/images/tamidas-logo.png" height="12">Tamidas](https://www.tamidas.com),
-- Previously completed my internship at  [<img src="https://www.meganartech.com/images/Logo_And_Name.jpg" height="24">](https://www.zoho.com/)
-- Social Presence
+[<img src="https://www.tamidas.com/images/tamidas-logo.png" height="12">Tamidas](https://www.tamidas.com).
+- Previously completed my internship at  [<img src="https://www.meganartech.com/images/Logo_And_Name.jpg" height="24">](https://www.zoho.com/).
+- Social Presence,
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-babu-k-s/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/the.digitalsoul_47/)<br/> [
   <img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" />](https://www.sololearn.com/en/profile/14639207)
 
