@@ -48,11 +48,23 @@ Software Engineer @ Daacoworks
 <img height="50" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/google-cloud.png"/>
   </p>
-<!-- ### 💻 Workspace Spec -->
-<!-- <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  -->
 
-<!-- ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs) -->
+### 💻 Workspace Spec
+<p>
+<img height="30" src="https://img.shields.io/badge/ASUS-VivoBook-0078D6?style=for-the-badge&logo=asus&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Intel-Core_i5_14th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Acer-Aspire_Lite-83B81A?style=for-the-badge&logo=acer&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5625U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+</p>
 
-<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/Arunbabu007?theme=dark&font=Lateef)](https://leetcode.com/ArunBabu007) -->
+<p align="center">
+  <a href="https://leetcode.com/ArunBabu007">
+    <img src="https://leetcard.jacoblin.cool/Arunbabu007?theme=dark&font=Lateef" />
+  </a>
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunbabuks007&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunbabuks007&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
+  </a>
+</p>
