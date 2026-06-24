@@ -69,4 +69,4 @@ Software Engineer @ Daacoworks
   </a>
 </p>
 
-![Freely](https://soul-backend-znaq.onrender.com/card/bhaga?theme=dark)
+![Freely](http://localhost:3000/card/arunbabu?theme=light)
